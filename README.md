@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi im Fox  but you probably know me as DLondon or DL.<br>Head Mapper for The Den, a fork of Space Station 14<br>Which is itself a remake of Space Station 13
+Hi im Fox  but you probably know me as DLondon or DL.<br>Mapper for The Den, a fork of Space Station 14<br>Which is itself a remake of Space Station 13
 
 
 # 💻 Tech Stack:
